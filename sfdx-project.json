@@ -1,0 +1,21 @@
+{
+  "packageDirectories": [
+    {
+      "versionName": "2024-07-27",
+      "versionNumber": "1.0.0.NEXT",
+      "path": "force-app",
+      "default": true,
+      "package": "force-di",
+      "versionDescription": ""
+    }
+  ],
+  "name": "sfdc-force-di",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "61.0",
+  "packageAliases": {
+    "force-di": "0Hoak0000000CqnCAE",
+    "force-di@0.1.0-1": "04tak0000002cZ3AAI",
+    "force-di@1.0.0-1": "04tak0000002cafAAA"
+  }
+}
